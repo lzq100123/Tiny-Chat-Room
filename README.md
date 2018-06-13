@@ -4,6 +4,7 @@ So you could check the chat room code in my latest commit.
 Link: https://github.com/lzq100123/Online-Marketing-System
 
 The result of pages are showed below:
+
 1.User could choose multiple chat room to join:
 ![image](https://user-images.githubusercontent.com/21145463/41364537-9f056762-6efc-11e8-9e2e-7ffb0a53cf79.png)
 
