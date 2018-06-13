@@ -1,5 +1,5 @@
 # Tiny-Chat-Room
-For this project, I make the tiny chat room as one functionality of my online marketing system.
+For this project, I made the tiny chat room as one functionality of my online marketing system.
 So you could check the chat room code in my latest commit. 
 Link: https://github.com/lzq100123/Online-Marketing-System
 
